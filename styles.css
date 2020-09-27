@@ -1,0 +1,118 @@
+/* Body styles starts */
+body {
+	margin: 0;
+	font-family: "Open Sans", sans-serif;
+	background-color: #eee;
+	color: #808080;
+}
+
+a {
+	text-decoration: none;
+}
+
+ul {
+	list-style-type: none;
+}
+
+
+/* Body styles ends */
+.blocks {
+	background-color: #fff;
+	width: 40%;
+	margin: auto;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	padding: 30px;
+	padding-bottom: 15px;
+	text-align: center;
+	border-radius: 4px;
+}
+
+#biography h1 {
+	color: #de454c;
+	font-weight: 800;
+}
+
+#biography h3 {
+	color: grey;
+}
+#biography p {
+	margin-bottom: 5px;
+	text-align: justify;
+}
+
+#biography img {
+	width: 25%;
+	border-radius: 50%;
+	border: 3px solid #ccc;
+}
+
+/* 1st block styles starts */
+.see-more-btn {
+	background-color: #de454c;
+	border: none;
+	color: white;
+	padding: 10px 6px;
+	border-radius: 4px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 13px;
+	margin: 4px 2px;
+	cursor: pointer;
+	letter-spacing: 0.5px;
+}
+
+/* 1st block styles ends */
+
+/* seconde block styles starts */
+ul.social {
+	display: inline-block;
+	padding: 0 25px;
+}
+
+#social-links li, #social-links a {
+	color: #ccc;
+	font-size: 22px;
+}
+
+#social-links a {
+	font-size: 14px;
+}
+
+/* seconde block styles ends */
+/* third block styles starts */
+#his {
+	background-color: #ddd;
+}
+
+.movie {
+	display: inline-block;
+	padding: 30px 0;
+}
+
+.movie .movie-desc {
+	margin-left: 26%;
+	font-size: 14px;
+}
+
+.img-block {
+	width: 20%;
+	float: left;
+}
+
+.img-block img {
+	width: 100%;
+}
+
+.movie-desc h3 {
+	margin-top: 0;
+	margin-bottom: 30px;
+}
+
+.movie-desc p {
+	text-align: left;
+	font-size: 15px;
+	margin-bottom: 0;
+}
+/* third block styles ends */
