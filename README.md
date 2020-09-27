@@ -15,4 +15,4 @@ You might not know him, but as the inventor of HTML, Tim Berners-Lee is the caus
 Find instruction [here](https://github.com/becodeorg/Startup-Brussels-Johnson-5.25/blob/master/1.The-Field/02.HTML-CSS/1.fundamentals/4.TimBerners-challenge.adoc)
 
 ## Find my work here:
- [My work](https://gemahonesta.github.io/TimB/.)
+ [My work](https://gemahonesta.github.io/tim-berners-lee/index.html)
